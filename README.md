@@ -74,6 +74,8 @@ Visualizations included in this report effectively illustrate the comparative pe
 The key metrics that have been utilized in this analysis include:
 - Standard Deviation
 - Sharpe Ratio
+- Value at Risk
+- Maximum Drawdown
 
 ---
 
